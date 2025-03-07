@@ -18,9 +18,7 @@ body {
 #navbar {
     width: 22%;
     min-width: 260px;
-    background-color: #f4f4f4;
     padding: 20px;
-    border-right: 2px solid gray;
 }
 
 #navbar h1 {
